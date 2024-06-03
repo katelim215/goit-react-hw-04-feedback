@@ -1,0 +1,11 @@
+.divSection {
+    /* display: flex; */
+    /* align-items: center; */
+    margin: 0 auto;
+    /* border-radius: 0%;
+    box-shadow: none; */
+}
+
+.sectionTitle {
+    margin: 20px 0;
+}
